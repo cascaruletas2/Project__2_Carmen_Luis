@@ -33,6 +33,4 @@ sanrio-shop/
 └── README.md
 
 #Installation & Usage
-
-Clone the repository: git clone https://github.com/tu-usuario/sanrio-shop.git
 Open index.html in your browser
