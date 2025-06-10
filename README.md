@@ -22,14 +22,14 @@ Project Structure
 
 sanrio-shop/
 ├── public/
-│   └── images/          # Todas las imágenes del proyecto
+│   └── images/
 ├── src/
 │   ├── styles/
-│   │   ├── reset.css    # Reset CSS
-│   │   ├── variables.css # Variables CSS
-│   │   ├── main.css     # Estilos principales
-│   │   └── responsive.css # Media queries
-│   └── index.html       # Página principal
+│   │   ├── reset.css
+│   │   ├── variables.css
+│   │   ├── main.css
+│   │   └── responsive.css
+│   └── index.html
 └── README.md
 
 #Installation & Usage
